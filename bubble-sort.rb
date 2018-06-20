@@ -20,7 +20,4 @@ end
 end
 
 puts bubbleSort([4,3,78,2,0,2])
-
-puts bubbles(["hi","hello","hey"]) do |left,right|
-       left.length - right.length
-end
+puts bubbles(["hi","hello","hey"]) 
